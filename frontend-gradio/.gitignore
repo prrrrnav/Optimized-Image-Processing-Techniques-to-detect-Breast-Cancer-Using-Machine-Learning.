@@ -1,0 +1,35 @@
+# Python env
+venv/
+*.pyc
+__pycache__/
+
+# Node
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# ML artifacts
+*.pth
+*.pt
+*.ckpt
+metrics.json
+logs/
+results/
+
+# Dataset
+dataset/
+data/
+raw_data/
+images/
+
+# Gradio temp
+gradio_cached_examples/
+
+# Other folders not needed
+tests/
+docs/
+examples/
+tutorials/
