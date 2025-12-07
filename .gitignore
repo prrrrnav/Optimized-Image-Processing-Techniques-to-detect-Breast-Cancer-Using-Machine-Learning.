@@ -1,6 +1,5 @@
 # Ignore large artifacts and local secrets
 IDC_regular_ps50_idx5.zip
-ml-model/
 ngrok_recovery_codes.txt
 
 # General archives
